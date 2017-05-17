@@ -765,7 +765,7 @@ youtube_dl-2017.5.14.dist-info/WHEEL,sha256=o2k-Qa-RMNIJmUdIc7KU6VWR_ErNRbWNlxDI
 youtube_dl-2017.5.14.dist-info/entry_points.txt,sha256=BEHEU-hIddFLzxn0fgUC69DPt3t2AiTQ8Ed1bt_Taf0,48
 youtube_dl-2017.5.14.dist-info/metadata.json,sha256=s669aVcC-4a5CppCP2IWU3fmY8_5sOutZmJThpthxVs,1008
 youtube_dl-2017.5.14.dist-info/top_level.txt,sha256=6hld0jWqfXBXJSHIEmwnPB3WJIRrzgQXHNVM8AAXUAI,11
-../../bin/youtube-dl.exe,sha256=nnE8kfqijHsD3K24eol7oDwO4IlD39xQPGOQwxxcj2U,98174
+../../bin/youtube-dl.exe,sha256=pyjerjT9wWrRSba_y--7l25oGXST2l7QN-YWIYoXrHE,98174
 youtube_dl-2017.5.14.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
 youtube_dl/downloader/__pycache__/common.cpython-36.pyc,,
 youtube_dl/downloader/__pycache__/dash.cpython-36.pyc,,
