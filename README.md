@@ -1,2 +1,0 @@
-# seishirou
-discord bot
